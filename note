@@ -9,3 +9,10 @@ Five Extensions of the General Linear Model: https://www.theanalysisfactor.com/e
 
 Robust Standard Errors: a technique to obtain unbiased standard errors of OLS coefficients under heteroscedasticity
 https://economictheoryblog.com/2016/08/07/robust-standard-errors/#targetText=%E2%80%9CRobust%E2%80%9D%20standard%20errors%20is%20a,of%20OLS%20coefficients%20under%20heteroscedasticity.&targetText=%E2%80%9CRobust%E2%80%9D%20standard%20errors%20have%20many,the%20sandwich%20estimator%20of%20variance.
+
+Bonferonni correction:divide the alpha value by the number of tests
+
+Holm-Bonferroni Method: It is a modification of the Bonferroni correction. The Bonferroni correction reduces the possibility of 
+getting a statistically significant result (i.e. a Type I error) when performing multiple tests. Although the Bonferroni is 
+simple to calculate, it suffers from a lack of statistical power. The Holm-Bonferroni method is also fairly simple to 
+calculate, but it is more powerful than the single-step Bonferroni. https://www.statisticshowto.datasciencecentral.com/holm-bonferroni-method/
