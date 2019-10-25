@@ -23,3 +23,5 @@ calculate, but it is more powerful than the single-step Bonferroni. https://www.
 Block randomization: designed to randomize subjects into groups that result in equal sample sizes. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136079/
 
 Cox proportional hazards regression: survival analysis http://www.sthda.com/english/wiki/cox-proportional-hazards-model
+
+Standard deviation of the residuals: https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-dev-residuals
