@@ -25,3 +25,7 @@ Block randomization: designed to randomize subjects into groups that result in e
 Cox proportional hazards regression: survival analysis http://www.sthda.com/english/wiki/cox-proportional-hazards-model
 
 Standard deviation of the residuals: https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-dev-residuals
+
+Standard deviation vs. standard error of the mean: standard error of the mean is the measure of how far your sample mean is likely to be from the true mean of the population. So the lower your SEM is, the more likely it is that your calculated mean is close to the actual mean. Estimate SEM: SEM = SD / sqrt(n).
+SD is a measure of the variability of the data, and SEM is a measure of precision of the data.
+https://www.youtube.com/watch?v=3UPYpOLeRJg
