@@ -29,3 +29,6 @@ Standard deviation of the residuals: https://www.khanacademy.org/math/ap-statist
 Standard deviation vs. standard error of the mean: standard error of the mean is the measure of how far your sample mean is likely to be from the true mean of the population. So the lower your SEM is, the more likely it is that your calculated mean is close to the actual mean. Estimate SEM: SEM = SD / sqrt(n).
 SD is a measure of the variability of the data, and SEM is a measure of precision of the data.
 https://www.youtube.com/watch?v=3UPYpOLeRJg
+
+Why Overlapping Confidence Intervals mean Nothing about Statistical Significance:
+https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing-about-statistical-significance-48360559900a
