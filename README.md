@@ -33,6 +33,6 @@ https://www.youtube.com/watch?v=3UPYpOLeRJg
 Why Overlapping Confidence Intervals mean Nothing about Statistical Significance:
 https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing-about-statistical-significance-48360559900a
 
-AIC: Given a set of candidate models for the data, the preferred model is the one with the minimum AIC value. 
-AIC=2k-2ln(L), where k is the number of parameters and L is the maximum value of the likelihood function of the model. 
-https://en.wikipedia.org/wiki/Akaike_information_criterion
+Maximum likelihood estimation: 
+
+Likelihood function: 
