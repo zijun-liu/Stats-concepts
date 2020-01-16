@@ -36,3 +36,5 @@ https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing
 Maximum likelihood estimation: 
 
 Likelihood function: 
+
+Permutation: https://medium.com/i-math/combinations-permutations-fa7ac680f0ac
