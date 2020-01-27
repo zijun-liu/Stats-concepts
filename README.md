@@ -45,4 +45,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1466680/
 Coefficient of variation: also known as relative standard deviation (RSD), is a standardized measure of dispersion of a probability distribution. It is often expressed as a percentage, and is defined as the ratio of the standard deviation {sigma} to the mean {mu}b(or its absolute value, {|mu|}.
 https://en.wikipedia.org/wiki/Coefficient_of_variation
 
-marginal distribution and conditional distribution: https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/distributions-two-way-tables/v/marginal-distribution-and-conditional-distribution
+Marginal distribution and conditional distribution: https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/distributions-two-way-tables/v/marginal-distribution-and-conditional-distribution
+
+Degrees of freedom: the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.
+https://www.statisticshowto.datasciencecentral.com/degrees-of-freedom/
