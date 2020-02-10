@@ -52,3 +52,6 @@ https://www.statisticshowto.datasciencecentral.com/degrees-of-freedom/
 
 Sampling distribution: Suppose we draw all possible samples of size n from a given population. Suppose further that we compute a statistic (eg. a mean, proportion, standard deviation) for each sample. The probability distribution of this statistic is called a sampling distribution. And the standard deviation of this statistic is called the standard error.
 https://stattrek.com/sampling/sampling-distribution.aspx
+
+
+Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
