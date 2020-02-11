@@ -30,6 +30,18 @@ Standard deviation vs. standard error of the mean: standard error of the mean is
 SD is a measure of the variability of the data, and SEM is a measure of precision of the data.
 https://www.youtube.com/watch?v=3UPYpOLeRJg
 
+{
+Sample statistic: a metric calculated for a sample of data drawn from a larger population.
+
+Data distribution: The frequency distribution of individual values in a data set.
+
+Sampling distribution: The frequency distribution of a sample statistic over may samples or resamples.
+
+Central limit theorem: The tendency of the sampling distribution to take on normal shape as sample size rises.
+
+STANDARD ERROR: The variability (standard deviation) of a sample statistic over many samples (not to be confused with standard deviation, which, by itself, refers to variability of individual data values).
+}
+
 Why Overlapping Confidence Intervals mean Nothing about Statistical Significance:
 https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing-about-statistical-significance-48360559900a
 
