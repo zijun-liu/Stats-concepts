@@ -67,3 +67,6 @@ https://stattrek.com/sampling/sampling-distribution.aspx
 
 
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
+
+BCa: Bias- corrected and accelerated confidence interval.
+Bias correction: https://garstats.wordpress.com/2018/01/23/bias-correction/
