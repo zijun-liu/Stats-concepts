@@ -37,7 +37,7 @@ Data distribution: The frequency distribution of individual values in a data set
 
 Sampling distribution: The frequency distribution of a sample statistic over may samples or resamples.
 
-Central limit theorem: The tendency of the sampling distribution to take on normal shape as sample size rises.
+Central limit theorem: The tendency of the sampling distribution to take on normal shape as sample size rises. (Why so important: https://tutorials.methodsconsultants.com/posts/the-central-limit-theorem-and-its-implications-for-statistical-inference/)
 
 STANDARD ERROR: The variability (standard deviation) of a sample statistic over many samples (not to be confused with standard deviation, which, by itself, refers to variability of individual data values).
 }
