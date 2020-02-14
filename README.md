@@ -49,7 +49,7 @@ Maximum likelihood estimation:
 
 Likelihood function: 
 
-Permutation: https://medium.com/i-math/combinations-permutations-fa7ac680f0ac
+Combinations vs Permutations: https://medium.com/i-math/combinations-permutations-fa7ac680f0ac
 
 intracluster correlation coefficient (ICC): a measure of the relatedness of clustered data. Values range from 0 to 1 in human studies. If 1, all responses within a cluster are identical. A very small value for ρ implies that the within-cluster variance is much greater than the between-cluster variance, and a ρ of 0 shows that there is no correlation of responses within a cluster. 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1466680/
@@ -65,8 +65,7 @@ https://www.statisticshowto.datasciencecentral.com/degrees-of-freedom/
 Sampling distribution: Suppose we draw all possible samples of size n from a given population. Suppose further that we compute a statistic (eg. a mean, proportion, standard deviation) for each sample. The probability distribution of this statistic is called a sampling distribution. And the standard deviation of this statistic is called the standard error.
 https://stattrek.com/sampling/sampling-distribution.aspx
 
-
-Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
-
 BCa: Bias- corrected and accelerated confidence interval.
 Bias correction: https://garstats.wordpress.com/2018/01/23/bias-correction/
+
+Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
