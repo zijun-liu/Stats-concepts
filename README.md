@@ -68,4 +68,8 @@ https://stattrek.com/sampling/sampling-distribution.aspx
 BCa: Bias- corrected and accelerated confidence interval.
 Bias correction: https://garstats.wordpress.com/2018/01/23/bias-correction/
 
+Which statistical test should you use:
+https://help.xlstat.com/s/article/which-statistical-test-should-you-use?language=en_US
+https://stats.idre.ucla.edu/other/mult-pkg/whatstat/
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
