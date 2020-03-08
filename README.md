@@ -61,6 +61,7 @@ Marginal distribution and conditional distribution: https://www.khanacademy.org/
 
 Degrees of freedom: the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.
 https://www.statisticshowto.datasciencecentral.com/degrees-of-freedom/
+http://www.rondotsch.nl/degrees-of-freedom/
 
 Sampling distribution: Suppose we draw all possible samples of size n from a given population. Suppose further that we compute a statistic (eg. a mean, proportion, standard deviation) for each sample. The probability distribution of this statistic is called a sampling distribution. And the standard deviation of this statistic is called the standard error.
 https://stattrek.com/sampling/sampling-distribution.aspx
