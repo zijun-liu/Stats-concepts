@@ -73,4 +73,8 @@ Which statistical test should you use:
 https://help.xlstat.com/s/article/which-statistical-test-should-you-use?language=en_US
 https://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 
+
+Permuted block randomization: Permuted block randomization is a way to randomly allocate a participant to a treatment group, while maintaining a balance across treatment groups. 
+https://www.statisticshowto.datasciencecentral.com/permuted-block-randomization/
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
