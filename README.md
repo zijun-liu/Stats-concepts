@@ -78,4 +78,7 @@ Permuted block randomization: Permuted block randomization is a way to randomly 
 https://www.statisticshowto.datasciencecentral.com/permuted-block-randomization/
 https://www.sealedenvelope.com/help/redpill/latest/block/
 
+Adaptive Randomization: Adaptive randomization refers to any scheme in which the probability of treatment assignment changes according to assigned treatments of patients already in the trial.
+https://online.stat.psu.edu/stat509/node/68/
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
