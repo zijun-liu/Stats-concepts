@@ -81,4 +81,6 @@ https://www.sealedenvelope.com/help/redpill/latest/block/
 Adaptive Randomization: Adaptive randomization refers to any scheme in which the probability of treatment assignment changes according to assigned treatments of patients already in the trial.
 https://online.stat.psu.edu/stat509/node/68/
 
+Harmonic mean: https://en.wikipedia.org/wiki/Harmonic_mean
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
