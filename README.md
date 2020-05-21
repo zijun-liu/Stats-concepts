@@ -83,4 +83,10 @@ https://online.stat.psu.edu/stat509/node/68/
 
 Harmonic mean: https://en.wikipedia.org/wiki/Harmonic_mean
 
+"The Wilcoxon test" can refer to several statistical tests：
+Wilcoxon signed-rank test: non-paramatric equivalent to the paired t-test
+Wilcoxon rank-sum test (Mann–Whitney U test): non-parametric equivalent to the two sample t-test on independent samples
+https://www.graphpad.com/guides/prism/7/statistics/stat_the_wilcoxon_test_can_refer_to.htm
+
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
