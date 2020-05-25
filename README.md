@@ -88,5 +88,6 @@ Wilcoxon signed-rank test: non-paramatric equivalent to the paired t-test.
 Wilcoxon rank-sum test (Mann–Whitney U test): non-parametric equivalent to the two sample t-test on independent samples. 
 https://www.graphpad.com/guides/prism/7/statistics/stat_the_wilcoxon_test_can_refer_to.htm
 
+"Empirical" means "from experiment". Based on experience; determined from experimental data, as opposed to theoretical.
 
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
