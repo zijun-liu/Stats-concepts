@@ -90,4 +90,6 @@ https://www.graphpad.com/guides/prism/7/statistics/stat_the_wilcoxon_test_can_re
 
 "Empirical" means "from experiment". Based on experience; determined from experimental data, as opposed to theoretical.
 
+poLCA: https://statistics.ohlsen-web.de/latent-class-analysis-polca/
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
