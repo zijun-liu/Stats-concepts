@@ -92,4 +92,6 @@ https://www.graphpad.com/guides/prism/7/statistics/stat_the_wilcoxon_test_can_re
 
 poLCA: https://statistics.ohlsen-web.de/latent-class-analysis-polca/
 
+Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/#:~:text=Linear%20mixed%20models%20are%20an,or%20patients%20from%20within%20doctors.
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
