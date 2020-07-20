@@ -51,7 +51,8 @@ Likelihood function:
 
 Combinations vs Permutations: https://medium.com/i-math/combinations-permutations-fa7ac680f0ac
 
-intracluster correlation coefficient (ICC): a measure of the relatedness of clustered data. Values range from 0 to 1 in human studies. If 1, all responses within a cluster are identical. A very small value for ρ implies that the within-cluster variance is much greater than the between-cluster variance, and a ρ of 0 shows that there is no correlation of responses within a cluster. 
+intracluster correlation coefficient (ICC): https://www.statisticshowto.com/intraclass-correlation/. 
+a measure of the relatedness of clustered data. Values range from 0 to 1 in human studies. If 1, all responses within a cluster are identical. A very small value for ρ implies that the within-cluster variance is much greater than the between-cluster variance, and a ρ of 0 shows that there is no correlation of responses within a cluster. 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1466680/
 
 Coefficient of variation: also known as relative standard deviation (RSD), is a standardized measure of dispersion of a probability distribution. It is often expressed as a percentage, and is defined as the ratio of the standard deviation {sigma} to the mean {mu}b(or its absolute value, {|mu|}.
