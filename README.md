@@ -95,4 +95,10 @@ poLCA: https://statistics.ohlsen-web.de/latent-class-analysis-polca/
 
 Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/#:~:text=Linear%20mixed%20models%20are%20an,or%20patients%20from%20within%20doctors.
 
+
+Normal Approximation to the Binomial: https://www.statisticshowto.com/probability-and-statistics/binomial-theorem/normal-approximation-to-the-binomial/
+
 Something to read: https://www.johndcook.com/blog/2009/06/25/probability-approximation/
+
+
+
