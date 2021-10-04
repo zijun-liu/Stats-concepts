@@ -45,7 +45,7 @@ STANDARD ERROR: The variability (standard deviation) of a sample statistic over 
 Why Overlapping Confidence Intervals mean Nothing about Statistical Significance:
 https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing-about-statistical-significance-48360559900a
 
-Maximum likelihood estimation: 
+Maximum likelihood estimation: https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
 Likelihood function: 
 
